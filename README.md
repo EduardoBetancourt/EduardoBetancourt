@@ -3,7 +3,7 @@
 
 I love working on projects that are purpose driven and have a social cause. ❤️  That's why I co-founded [imvisible](http://www.im-visible.com/), a platform to visualize daily sexual harassment ✋.
 
-As well, as a final project of my Data Science bootcamp I developed 🚫 **splocked**, a spoiler Detector using NLP that allows you to read 📝 reviews of your favorite movies and shows without spoilers 😅. 
+As well, as a final project of my Data Science bootcamp I developed 🚫 **splocked**, a spoiler detector using NLP that allows you to read 📝 reviews of your favorite movies and shows without spoilers 😅. 
 
 Currently, I'm a 🦠 bioengineering student at Tec de Monterrey 🐑 in Mexico who is passionate about track and field 🏃‍♂️, the environment 🌎 and business 🤝. 
 
